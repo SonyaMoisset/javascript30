@@ -11,4 +11,4 @@ Vanilla JavaScript Drumkit using:
 * [Array.from()](https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Array/from?v=control)
 * [Array.prototype.forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach?v=control)
 
-![Drumkit]()
+![Drumkit](https://github.com/SonyaMoisset/javascript30/blob/master/01-Drumkit/drumkit.png)
