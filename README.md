@@ -16,3 +16,7 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/03-Variables/)
 ![Variables](https://github.com/SonyaMoisset/javascript30/blob/master/03-Variables/variables.png)
 
 ### [04 | Variables](https://github.com/SonyaMoisset/javascript30/tree/master/04-ArrayOne)
+
+### [05 | Panel](https://github.com/SonyaMoisset/javascript30/tree/master/05-Panel)
+Click to view [Demo](https://sonyamoisset.github.io/javascript30/05-Panel/)
+![Panel](https://github.com/SonyaMoisset/javascript30/blob/master/05-Panel/panel.png)
