@@ -9,4 +9,6 @@ Vanilla JavaScript Clock using:
 * [Date.prototype.getHours()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date/getHours)
 * [WindowOrWorkerGlobalScope.setInterval()](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/setInterval)
 
+Click to view [Demo](https://sonyamoisset.github.io/javascript30/02-Clock/)
+
 ![Clock](https://github.com/SonyaMoisset/javascript30/blob/master/02-Clock/clock.png)
