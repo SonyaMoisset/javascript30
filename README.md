@@ -22,3 +22,8 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/03-Variables/)
 ### [05 | Panel](https://github.com/SonyaMoisset/javascript30/tree/master/05-Panel)
 Click to view [Demo](https://sonyamoisset.github.io/javascript30/05-Panel/)
 ![Panel](https://github.com/SonyaMoisset/javascript30/blob/master/05-Panel/panel.png)
+----------
+
+### [06 | Type](https://github.com/SonyaMoisset/javascript30/tree/master/06-Type)
+Click to view [Demo](https://sonyamoisset.github.io/javascript30/06-Type/)
+![Clock](https://github.com/SonyaMoisset/javascript30/blob/master/06-Type/type.png)
