@@ -16,7 +16,7 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/03-Variables/)
 ![Variables](https://github.com/SonyaMoisset/javascript30/blob/master/03-Variables/variables.png)
 ----------   
 
-### [04 | Variables](https://github.com/SonyaMoisset/javascript30/tree/master/04-ArrayOne)
+### [04 | JS Methods Part 1](https://github.com/SonyaMoisset/javascript30/tree/master/04-ArrayOne)
 ----------   
 
 ### [05 | Panel](https://github.com/SonyaMoisset/javascript30/tree/master/05-Panel)
@@ -27,3 +27,7 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/05-Panel/)
 ### [06 | Type](https://github.com/SonyaMoisset/javascript30/tree/master/06-Type)
 Click to view [Demo](https://sonyamoisset.github.io/javascript30/06-Type/)
 ![Clock](https://github.com/SonyaMoisset/javascript30/blob/master/06-Type/type.png)
+----------   
+
+### [05 | JS Methods Part 2](https://github.com/SonyaMoisset/javascript30/tree/master/07-ArrayTwo)
+----------   
