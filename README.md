@@ -29,5 +29,5 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/06-Type/)
 ![Clock](https://github.com/SonyaMoisset/javascript30/blob/master/06-Type/type.png)
 ----------   
 
-### [05 | JS Methods Part 2](https://github.com/SonyaMoisset/javascript30/tree/master/07-ArrayTwo)
+### [07 | JS Methods Part 2](https://github.com/SonyaMoisset/javascript30/tree/master/07-ArrayTwo)
 ----------   
