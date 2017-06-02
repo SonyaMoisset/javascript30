@@ -30,4 +30,8 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/06-Type/)
 ----------   
 
 ### [07 | JS Methods Part 2](https://github.com/SonyaMoisset/javascript30/tree/master/07-ArrayTwo)
-----------   
+----------
+
+### [08 | Video Player](https://github.com/SonyaMoisset/javascript30/tree/master/08-VideoPlayer)
+Click to view [Demo](https://sonyamoisset.github.io/javascript30/08-VideoPlayer/)
+![VideoPlayer](https://github.com/SonyaMoisset/javascript30/blob/master/08-VideoPlayer/videoPlayer.png)
