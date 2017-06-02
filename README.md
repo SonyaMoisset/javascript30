@@ -35,3 +35,8 @@ Click to view [Demo](https://sonyamoisset.github.io/javascript30/06-Type/)
 ### [08 | Video Player](https://github.com/SonyaMoisset/javascript30/tree/master/08-VideoPlayer)
 Click to view [Demo](https://sonyamoisset.github.io/javascript30/08-VideoPlayer/)
 ![VideoPlayer](https://github.com/SonyaMoisset/javascript30/blob/master/08-VideoPlayer/videoPlayer.png)
+----------
+
+### [09 | Canvas](https://github.com/SonyaMoisset/javascript30/tree/master/09-Canvas)
+Click to view [Demo](https://sonyamoisset.github.io/javascript30/09-Canvas/)
+![VideoPlayer](https://github.com/SonyaMoisset/javascript30/blob/master/09-Canvas/canvas.png)
